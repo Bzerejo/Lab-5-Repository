@@ -1,2 +1,3 @@
 # Lab-5-Repository
-Read ME!
+This program accepts a name input and a lucky number input, and prints the name lucky number times.
+Group: Alone
