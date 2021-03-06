@@ -1,0 +1,7 @@
+nameInput = input("What is your name?")
+numInput = int(input("What's your lucky number?"))
+for i in range(numInput):
+    print(nameInput)
+
+
+
